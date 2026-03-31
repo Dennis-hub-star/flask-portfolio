@@ -1,4 +1,3 @@
-# This is a test for github-webhook 
 FROM python:3.11-slim
 WORKDIR /app
 COPY requirements.txt ./
